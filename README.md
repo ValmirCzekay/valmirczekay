@@ -41,4 +41,4 @@ Meu objetivo é se tornar um desenvolvedor full stack
     </a>
 </div>
   
-![Snake animation](https://github.com/ValmirCzekay/ValmirCzekay/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ValmirCzekay/valmirczekay/blob/output/github-contribution-grid-snake.svg)
