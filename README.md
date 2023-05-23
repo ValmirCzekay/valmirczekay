@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCBA03&width=435&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
+
 ### Olá! Eu sou o Valmir Czekay 
 
 Sou programador Front End, atualmente estou estudando e criando projetos com:
@@ -7,6 +9,7 @@ HTML e CSS. Iniciando os modulos de JavaScript.
 <p>Estou em processo de transição de carreira</p>
 
 Meu objetivo é se tornar um desenvolvedor full stack
+
 
 <div>
   
@@ -24,16 +27,6 @@ Meu objetivo é se tornar um desenvolvedor full stack
 
    </div>
 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: valmirczekay@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/valmirczekay/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/valmirczekay/">
-      <img width="25" src="instagram.png">
-    </a>
 </div>
   
 ![Snake animation](https://github.com/ValmirCzekay/valmirczekay/blob/output/github-contribution-grid-snake.svg)
